@@ -17,5 +17,5 @@
 
 ### Desired outcome
 - Configure the network so that R1 prefers the 100MB Fast Ethernet connection to get to R4’s loopback 0 interface (4.4.4.4). Once completed, you should be able to trace and ping from R1’s loopback 0 interface to R4’s loopback 0 interface
-successfully
+successfully.
 
